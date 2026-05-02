@@ -1,0 +1,69 @@
+"fgvc_label,display_name,manufacturer,family,variant,role,first_flight,crew,typical_capacity,max_capacity,range_km,cruise_speed_kmh,mtow_tonnes,length_m,wingspan_m,notes",fgvc_label,display_name,manufacturer,family,variant,role,first_flight,crew,typical_capacity,max_capacity,range_km,cruise_speed_kmh,mtow_tonnes,length_m,wingspan_m,notes
+"727-200,Boeing 727-200,Boeing,727,200,Medium-haul narrow-body,1963,3,145,189,4000,860,95,46.68,32.92,""Dérivé allongé du 727-100""",,,,,,,,,,,,,,,,
+"737-300,Boeing 737-300,Boeing,737,300,Short/medium-haul narrow-body,1981,2,126,149,4200,795,62,33.40,28.88,""Série Classic""",,,,,,,,,,,,,,,,
+"737-800,Boeing 737-800,Boeing,737,800,Short/medium-haul narrow-body,1997,2,162,189,5400,842,79,39.50,35.80,""NG, très utilisé moyen-courrier""",,,,,,,,,,,,,,,,
+"747-400,Boeing 747-400,Boeing,747,400,Long-haul wide-body,1988,2,416,660,13450,913,396,70.67,64.44,""Version long-courrier très répandue""",,,,,,,,,,,,,,,,
+"757-200,Boeing 757-200,Boeing,757,200,Medium-haul narrow-body,1982,2,200,239,7200,850,115,47.32,38.05,""Narrow-body à long rayon d'action""",,,,,,,,,,,,,,,,
+"767-300ER,Boeing 767-300ER,Boeing,767,300ER,Long-haul wide-body,1986,2,218,350,11000,850,186,54.94,47.57,""Version à rayon d'action étendu""",,,,,,,,,,,,,,,,
+"777-200,Boeing 777-200,Boeing,777,200,Long-haul wide-body,1994,2,314,396,9700,905,247,63.73,60.93,""Premier modèle de la famille 777""",,,,,,,,,,,,,,,,
+"777-300ER,Boeing 777-300ER,Boeing,777,300ER,Long-haul wide-body,2003,2,365,451,13650,905,351,73.86,64.80,""Grande capacité, très utilisé long-courrier""",,,,,,,,,,,,,,,,
+"787-8,Boeing 787-8,Boeing,787,8,Long-haul wide-body,2009,2,242,290,13620,913,228,56.72,60.12,""Dreamliner, long-courrier efficient""",,,,,,,,,,,,,,,,
+"A300-600,Airbus A300-600,Airbus,A300,600,Medium/long-haul wide-body,1983,2,266,345,7500,850,171,54.08,44.84,""Tripleuse large historique Airbus""",,,,,,,,,,,,,,,,
+"A310-300,Airbus A310-300,Airbus,A310,300,Medium/long-haul wide-body,1985,2,220,280,9500,850,150,46.66,43.90,""Version long rayon d’action de l’A310""",,,,,,,,,,,,,,,,
+"A320-200,Airbus A320-200,Airbus,A320,200,Short/medium-haul narrow-body,1987,2,150,180,6150,840,78,37.57,34.10,""Best-seller moyen-courrier""",,,,,,,,,,,,,,,,
+"A321-200,Airbus A321-200,Airbus,A321,200,Short/medium-haul narrow-body,1993,2,185,220,5600,840,93,44.51,34.10,""A320 allongé""",,,,,,,,,,,,,,,,
+"A330-200,Airbus A330-200,Airbus,A330,200,Long-haul wide-body,1997,2,246,406,13450,870,242,58.82,60.30,""Long-courrier bi-réacteur""",,,,,,,,,,,,,,,,
+"A330-300,Airbus A330-300,Airbus,A330,300,Long-haul wide-body,1992,2,277,440,11750,870,242,63.69,60.30,""Version allongée, plus de sièges""",,,,,,,,,,,,,,,,
+"A340-300,Airbus A340-300,Airbus,A340,300,Long-haul wide-body,1991,2,295,440,13400,870,257,63.69,60.30,""Quadri-réacteur long-courrier""",,,,,,,,,,,,,,,,
+"A350-900,Airbus A350-900,Airbus,A350,900,Long-haul wide-body,2013,2,300,350,15000,903,280,66.80,64.75,""Dernière génération long-courrier""",,,,,,,,,,,,,,,,
+"E190,Embraer E190,Embraer,E-Jet,190,Regional jet,2004,2,96,114,4000,829,51,36.24,28.72,""Jet régional 100 places""",,,,,,,,,,,,,,,,
+"CRJ-900,Bombardier CRJ900,Bombardier,CRJ,900,Regional jet,2001,2,76,90,3000,828,38,36.20,24.85,""Jet régional dérivé du CRJ700""",,,,,,,,,,,,,,,,
+"ATR-72,ATR 72,ATR,ATR,72,Regional turboprop,1988,2,68,78,1300,510,23,27.17,27.05,""Turbopropulseur régional""",,,,,,,,,,,,,,,,
+,727-200,727-200,[[Boeing Commercial Airplanes]],,727-200,,{{start date and age|1963|2|9}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-300,737-300,[[Boeing Commercial Airplanes]],,737-300,[[Narrow-body aircraft]],"February 24, 1984",,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-400,737-400,[[Boeing Commercial Airplanes]],,737-400,[[Narrow-body aircraft]],"February 24, 1984",,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-500,737-500,[[Boeing Commercial Airplanes]],,737-500,[[Narrow-body aircraft]],"February 24, 1984",,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-700,737-700,[[Boeing Commercial Airplanes]],,737-700,[[Narrow-body]] [[jet airliner]],{{start date and age|1997|02|09}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-800,737-800,[[Boeing Commercial Airplanes]],,737-800,[[Narrow-body]] [[jet airliner]],{{start date and age|1997|02|09}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,737-900,737-900,[[Boeing Commercial Airplanes]],,737-900,[[Narrow-body]] [[jet airliner]],{{start date and age|1997|02|09}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,747-200,747-200,[[Boeing Commercial Airplanes]],,747-200,,{{Start date and age|1969|02|09}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,747-300,747-300,[[Boeing Commercial Airplanes]],,747-300,,{{Start date and age|1969|02|09}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,747-400,747-400,[[Boeing]],,747-400,[[Wide-body aircraft|Wide-body airliner]],"April 29, 1988",,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,747-8,747-8,[[Boeing Commercial Airplanes]],,747-8,[[Wide-body aircraft|Wide-body]] [[jet airliner]],"747-8F: February 8, 2010 <br />747-8I: March 20, 2011",,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,757-200,757-200,[[Boeing Commercial Airplanes]],,757-200,,{{start date and age|1982|02|19}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,757-300,757-300,[[Boeing Commercial Airplanes]],,757-300,,{{start date and age|1982|02|19}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,767-200,767-200,[[Boeing Commercial Airplanes]],,767-200,,{{Start date and age|1981|09|26}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,767-300,767-300,[[Boeing Commercial Airplanes]],,767-300,,{{Start date and age|1981|09|26}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,767-300ER,767-300ER,[[Boeing Commercial Airplanes]],,767-300ER,,{{Start date and age|1981|09|26}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,767-400ER,767-400ER,[[Boeing Commercial Airplanes]],,767-400ER,,{{Start date and age|1981|09|26}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,777-200,777-200,[[Boeing Commercial Airplanes]],,777-200,,{{start date and age|1994|6|12}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,777-200ER,777-200ER,[[Boeing Commercial Airplanes]],,777-200ER,,{{start date and age|1994|6|12}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,777-300,777-300,[[Boeing Commercial Airplanes]],,777-300,,{{start date and age|1994|6|12}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,777-300ER,777-300ER,[[Boeing Commercial Airplanes]],,777-300ER,,{{start date and age|1994|6|12}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,777F,Boeing 777F,[[Boeing Commercial Airplanes]],,777F,,{{start date and age|1994|6|12}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,787-8,787-8,[[Boeing Commercial Airplanes]],,787-8,[[Wide-body aircraft|Wide-body jet airliner]],{{start date and age|2009|12|15}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,787-9,787-9,[[Boeing Commercial Airplanes]],,787-9,[[Wide-body aircraft|Wide-body jet airliner]],{{start date and age|2009|12|15}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,787-10,787-10,[[Boeing Commercial Airplanes]],,787-10,[[Wide-body aircraft|Wide-body jet airliner]],{{start date and age|2009|12|15}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A300-600,A300-600,,,A300-600,,{{start date and age|1972|10|28|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A310-300,A310-300,,,A310-300,,{{Start date and age|1982|04|03|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A318-100,Airbus A318-100,,,A318-100,,{{start date and age|2002|01|15|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A319-100,A319-100,[[Airbus]],,A319-100,,25 August 1995,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A320-200,A320-200,,,A320-200,,{{start date and age|1987|02|22|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A321-200,A321-200,[[Airbus]],,A321-200,,11 March 1993,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A330-200,A330-200,,,A330-200,,{{start date and age|1992|11|2|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A330-300,A330-300,,,A330-300,,{{start date and age|1992|11|2|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A330-900,A330-900,,,A330-900,,{{start date and age|2017|10|19|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A340-200,A340-200,,,A340-200,,{{start date and age|1991|10|25|df|=|yes}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A340-300,A340-300,,,A340-300,,{{start date and age|1991|10|25|df|=|yes}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A340-500,A340-500,,,A340-500,,{{start date and age|1991|10|25|df|=|yes}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A340-600,A340-600,,,A340-600,,{{start date and age|1991|10|25|df|=|yes}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A350-900,A350-900,,,A350-900,,{{start date and age|2013|6|14|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A350-1000,A350-1000,,,A350-1000,,{{start date and age|2013|6|14|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,A380-800,A380-800,,,A380-800,,{{start date and age|2005|04|27|df|=|y}},,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,E190,E190,[[Embraer]],,E190,[[Regional jet]]<br />[[Narrow-body aircraft|Narrow-body airliner]],19 February 2002,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,E195,E195,[[Embraer]],,E195,[[Regional jet]]<br />[[Narrow-body aircraft|Narrow-body airliner]],19 February 2002,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,CRJ-200,CRJ-200,[[Bombardier Aerospace]],,CRJ-200,[[Regional jet]],10 May 1991,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,CRJ-700,CRJ-700,[[Bombardier Aviation]],,CRJ-700,[[Regional jet]],27 May 1999,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,CRJ-900,CRJ-900,[[Bombardier Aviation]],,CRJ-900,[[Regional jet]],27 May 1999,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,ATR 42,ATR 42,[[ATR (aviation)|ATR]],,ATR 42,[[Regional airliner#Turboprop regional aircraft|Turboprop Regional airliner]],16 August 1984,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)
+,ATR 72,ATR 72,[[ATR (aircraft manufacturer)|ATR]],,ATR 72,[[Regional airliner#Turboprop regional aircraft|Turboprop regional airliner]],27 October 1988,,,,,,,,,Données auto Wikipédia (à vérifier/compléter)

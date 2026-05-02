@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+pydeck
+Pillow
+torch
+torchvision
+wikipedia
+reportlab
+kaleido
