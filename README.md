@@ -122,7 +122,7 @@ The aircraft detection module uses a ResNet18-based PyTorch model. The user uplo
 
 ## Author
 
-**Anas Iazza**  
+**AIT ADDI ZINEB**  
 Aeronautical Engineering and Space Technologies Student
 
 ## License
